@@ -1,9 +1,9 @@
-# Linguagem Javacript
+# Estudo de JavaScript
 
 ## Descrição do projeto
 Projeto desenvolvido no curso: [JavaScript: Programando na linguagem da web](https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web)
 
-## Tecnologias
+## Tecnologias utilizadas
 - JavaScript
 - HTML
 - CSS
