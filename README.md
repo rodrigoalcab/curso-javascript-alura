@@ -5,8 +5,8 @@ Projeto desenvolvido no curso: [JavaScript: Programando na linguagem da web](htt
 
 ## Tecnologias utilizadas
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## Funcionalidades
 - Registro de novos pacientes
